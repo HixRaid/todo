@@ -9,3 +9,8 @@ Todo provides reliable and secure data transfer using data transfer protocols su
 With Todo, you can easily organize your to-dos, manage tasks, and streamline your workflow. It is ideal for individual use or team collaboration. Thanks to its flexible architecture and simple interface, Todo allows you to quickly and efficiently organize your life and achieve your goals.
 
 > Still in development
+
+## 🛠️ Built with
+
+- Go `1.21.4`
+- MySQL `8.0.34`
