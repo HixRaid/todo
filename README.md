@@ -12,5 +12,5 @@ With Todo, you can easily organize your to-dos, manage tasks, and streamline you
 
 ## 🛠️ Built with
 
-- Go `1.21.4`
+- Go `1.21.5`
 - MySQL `8.0.34`
